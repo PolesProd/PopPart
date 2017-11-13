@@ -1,2 +1,2 @@
 # PopPart
-Fichier mise en place du site PoPart
+Fichier mise en place du site pour le projet de recherche PoPart
